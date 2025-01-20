@@ -50,14 +50,14 @@
 
 <p>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="JupyterLab" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="#"><img alt="JupyterLab" src="https://img.shields.io/badge/JupyterLab-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="GEE" src="https://img.shields.io/badge/Google_Earth_Engine-4285F4.svg?logo=googleearthengine&logoColor=white"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000.svg?logo=github&logoColor=525252"></a>
     <a href="#"><img alt="ArcGis" src="https://img.shields.io/badge/ArcGis-2C7AC3.svg?logo=arcgis&logoColor=white"></a>
     <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00.svg?logo=googlecolab&logoColor=525252"></a>
     <a href="#"><img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4.svg?logo=visual%20studio%20code&logoColor=white"></a>
-    <a href="#"><img alt="RStudio" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=Kaggle&logoColor=white"></a>
-    <a href="#"><img alt="Kaggle" src="https://img.shields.io/badge/RStudio-75AADB.svg?logo=RStudio&logoColor=white"></a>
+    <a href="#"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=Kaggle&logoColor=white"></a>
+    <a href="#"><img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB.svg?logo=rstudioide&logoColor=white"></a>
 </p>
 </div>
 
