@@ -67,10 +67,10 @@
 <h3>🗂️ Highlight Repositories</h3>
 
 <a href="https://github.com/grazirodigheri/get-phenometrics" title="Get PhenoMetrics">
-<img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=grazirodigheri&repo=get-phenometrics&theme=react&border_color=61dafb" />
+<img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=grazirodigheri&repo=get-phenometrics&theme=react&border_color=61dafb&show_icons=true&border_radius=15" />
 </a>
 <a href="https://github.com/grazirodigheri/apsimx-tutorial" title="APSIMx Tutorial">
-<img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=grazirodigheri&repo=apsimx-tutorial&theme=react&border_color=61dafb" />
+<img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=grazirodigheri&repo=apsimx-tutorial&theme=react&border_color=61dafb&show_icons=true&border_radius=15" />
 </a>
 </div>
 
