@@ -80,8 +80,8 @@
 <details> 
  <summary><h3>📊 Stats and Activity</h3></summary>
  <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=grazirodigheri&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="300px"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=grazirodigheri&show_icons=true&count_private=true&locale=en&theme=light" title="Grazi's GitHub Stats" height="192px"  width="400px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=grazirodigheri&langs_count=10&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&border_radius=10" alt="Gift's language" height="192px"  width="300px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=grazirodigheri&show_icons=true&include_all_commits=true&count_private=true&locale=en&theme=react&border_color=61dafb&border_radius=10" title="Grazi's GitHub Stats" height="192px"  width="400px"/>
  </div>
 </details>
 </div>
