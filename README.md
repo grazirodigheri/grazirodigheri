@@ -49,7 +49,6 @@
 <h3>💻 Software and Tools</h3>
 
 <p>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="JupyterLab" src="https://img.shields.io/badge/JupyterLab-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="GEE" src="https://img.shields.io/badge/Google_Earth_Engine-4285F4.svg?logo=googleearthengine&logoColor=white"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000.svg?logo=github&logoColor=525252"></a>
