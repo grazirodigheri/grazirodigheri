@@ -18,7 +18,7 @@
     <td>
       <ul>
         <p> - 👩🏻‍🎓🛰 I have a degree in Environmental Engineering and a master's and PhD in Remote Sensing. </p></li>
-        <p> - 👩‍💻📈 My current research interests include remote sensing, crop modelling, Artificial Intelligence (AI), Land Use and Land Cover (LULC), time-series analysis, data science and geospatial big data. </p></li>
+        <p> - 👩‍💻📈 My current research interests include Remote Sensing, Crop Modeling, Artificial Intelligence (AI), Land Use and Land Cover (LULC), Time-series Analysis, Agrometeorology, Climate Change and Variability, Data Science and Geospatial Big Data. </p></li>
       </ul>
     </td>
   </tr>
